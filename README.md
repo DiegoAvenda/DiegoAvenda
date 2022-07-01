@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DiegoAvenda
-- 👀 I’m interested in deep learning
+- 👀 I’m interested in deep reinforcement learning
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on deep learning projects
 - 📫 How to reach me 
